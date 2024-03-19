@@ -1,0 +1,36 @@
+.skills-section {
+  display: flex;
+  background-color: #110F1C;
+  height: 50vh;
+}
+
+.skill-list {
+  width: 800px;
+  margin: 20px 20px;
+  color: white;
+}
+
+.myInterests {
+  width: 300px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.myInterests h3 {
+  font-size: 24px;
+  color: white;
+}
+
+.myInterests hr {
+  border-top: 2px solid #aaa;
+}
+
+#interestsList {
+  list-style: none;
+  padding: 0;
+}
+
+.interestsItems {
+  font-size: 18px;
+  color: white;
+}
